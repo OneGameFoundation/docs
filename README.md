@@ -9,14 +9,14 @@
 * One Pager
 
 
-###Overview 
+### Overview 
 ------------
 One Game is a decentralized virtual world that grants gamers the ability to create their own reality and incentive based token ecosystem where tokens are awarded to the top performing creators and players. 
 
 One Game Source Code is maintained by the One Game Foundation.
 
 
-###Frequently Asked Questions
+### Frequently Asked Questions
 -----------------------------
 
 What is One Game?
@@ -30,7 +30,7 @@ One Game is under active development. We are aiming to provide three clients for
 
 
 
-###Glossary 
+### Glossary
 ------------
 
 **dAPP**
