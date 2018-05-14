@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# One Game Documentation
 
 ### Frequently Asked Questions
 -----------------------------

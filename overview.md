@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# One Game Documentation
+
 ### Overview 
 ------------
 One Game is a decentralized virtual world that grants gamers the ability to create their own reality and incentive based token ecosystem where tokens are awarded to the top performing creators and players. 

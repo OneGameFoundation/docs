@@ -8,5 +8,3 @@
 * <a href="/docs/whitepaper">Whitepaper</a>
 * <a href="/docs/onepager">One Pager</a>
 
-
-###Welcome to One Game
