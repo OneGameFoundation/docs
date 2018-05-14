@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Onepager
-permalink: /onepaper/
+layout: default
 ---
 
 

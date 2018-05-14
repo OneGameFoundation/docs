@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Whitepaper
-permalink: /whitepaper/
+layout: default
 ---
 
 ### Whitepaper

@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Overview
-permalink: /overview/
+layout: default
 ---
 
 ### Overview 
