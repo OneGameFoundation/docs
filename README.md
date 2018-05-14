@@ -2,11 +2,11 @@
 
 
 **Table of Contents**
-* <a href="/OneGameFoundation/docs/blob/master/overview.html">Overview</a>
-* <a href="/OneGameFoundation/docs/blob/master/faq.html">Frequently Asked Questions</a>
-* <a href="/OneGameFoundation/docs/blob/master/glossary.html">Glossary</a>
-* <a href="/OneGameFoundation/docs/blob/master/whitepaper.html">Whitepaper</a>
-* <a href="/OneGameFoundation/docs/blob/master/onepager.html">One Pager</a>
+* <a href="/OneGameFoundation/docs/overview">Overview</a>
+* <a href="/OneGameFoundation/docs/faq">Frequently Asked Questions</a>
+* <a href="/OneGameFoundation/docs/glossary">Glossary</a>
+* <a href="/OneGameFoundation/docs/whitepaper">Whitepaper</a>
+* <a href="/OneGameFoundation/docs/onepager">One Pager</a>
 
 
 ### Overview 
