@@ -2,11 +2,11 @@
 
 
 **Table of Contents**
-* Overview
-* Frequently Asked Questions
-* Glossary
-* Whitepaper
-* One Pager
+* <a href="/OneGameFoundation/docs/blob/master/overview.html">Overview</a>
+* <a href="/OneGameFoundation/docs/blob/master/faq.html">Frequently Asked Questions</a>
+* <a href="/OneGameFoundation/docs/blob/master/glossary.html">Glossary</a>
+* <a href="/OneGameFoundation/docs/blob/master/whitepaper.html">Whitepaper</a>
+* <a href="/OneGameFoundation/docs/blob/master/onepager.html">One Pager</a>
 
 
 ### Overview 
