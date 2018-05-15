@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: single
+sidebar:
+  nav: "docs"
 ---
-
-# One Game Documentation
 
 ### Whitepaper
 -------------
