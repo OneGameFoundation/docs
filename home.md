@@ -1,10 +1,8 @@
 ---
-layout: single
+layout: splash
 sidebar:
   nav: "docs"
 ---
-
-# One Game Documentation
 
 ### Overview 
 ------------
