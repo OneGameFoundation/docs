@@ -1,3 +1,12 @@
+# main links
+main:
+  - title: "One Game"
+    url: /docs/quick-start-guide/
+  - title: "Chat"
+    url: https://t.me/onegame_en
+  - title: "Twitter"
+    url: https://twitter.com/onegamerocks
+
 docs:
   - title: Getting Started
     children:
