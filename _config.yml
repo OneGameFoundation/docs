@@ -1,5 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Reading Files
+include:
+  - _pages
+
 defaults:
   # _pages
   - scope:
