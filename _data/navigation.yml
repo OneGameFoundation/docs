@@ -17,6 +17,18 @@ docs:
       - title: "Glossary"
         url: /glossary
 
+  - title: Developer Guide
+    children:
+      - title: "SDK Overview"
+        url: /sdk-overview
+      - title: "SDK FAQ"
+        url: /sdk-faq
+      - title: "Scripts"
+        url: /scripts
+      - title: "Marketplace"
+        url: /marketplace
+
+
   - title: Reading
     children:
       - title: "Whitepaper"
