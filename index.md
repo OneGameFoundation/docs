@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -11,4 +11,4 @@ One Game is a decentralized virtual world that grants gamers the ability to crea
 
 One Game Source Code is maintained by the One Game Foundation.
 
-<a href="/faq">Get Started with Documentations</a>
+<a href="/docs/faq">Get Started with Documentations</a>
