@@ -1,6 +1,7 @@
 ---
+title: "One Pager"
 layout: default
-permalink: /onepager/
+permalink: /docs/onepager/
 ---
 
 # One Game Documentation

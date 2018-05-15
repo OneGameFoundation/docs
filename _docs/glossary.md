@@ -1,6 +1,6 @@
 ---
 title: "Glossary"
-permalink: /glossary/
+permalink: /docs/glossary/
 ---
 
 # One Game Documentation
