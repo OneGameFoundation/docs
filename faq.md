@@ -1,5 +1,7 @@
 ---
 layout: default
+sidebar:
+  nav: "docs"
 ---
 
 # One Game Documentation
