@@ -12,3 +12,15 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"

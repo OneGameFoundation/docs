@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /faq/
+title: "FAQ"
+permalink: /docs/faq/
 ---
 
 # One Game Documentation
