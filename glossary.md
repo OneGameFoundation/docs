@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: single
 sidebar:
   nav: "docs"
 ---
-
-# One Game Documentation
 
 ### Glossary
 ------------

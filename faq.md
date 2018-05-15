@@ -4,8 +4,6 @@ sidebar:
   nav: "docs"
 ---
 
-# One Game Documentation
-
 ### Frequently Asked Questions
 -----------------------------
 
