@@ -4,9 +4,6 @@ sidebar:
   nav: "docs"
 ---
 
-### Glossary
-------------
-
 **dAPP**
 Short for decentralized application, a dApp is any application that is designed to run on a blockchain network, like Ethereum.
 

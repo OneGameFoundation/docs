@@ -8,18 +8,20 @@ docs:
       - title: "Glossary"
         url: /glossary
 
-  - title: Content
-    children:
-      - title: "Working with Desktop SDK"
-        url: /desktop-sdk
-      - title: "Working with Mobie SDK"
-        url: /mobile-sdk
-      - title: "Working with VR SDK"
-        url: /vr-sdk
-
-  - title: Extras
+  - title: Reading
     children:
       - title: "Whitepaper"
         url: /whitepaper
       - title: "One Pager"
         url: /onepager
+
+  - title: Social
+    children:
+      - title: "Website"
+        url: http://one.game/
+      - title: "Telegram"
+        url: https://t.me/onegame_en
+      - title: "Twitter"
+        url: https://twitter.com/onegamerocks
+
+

@@ -1,5 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Site Settings
+locale                   : "en-US"
+title                    : "One Game Documentations"
+
 # Reading Files
 include:
   - _pages
