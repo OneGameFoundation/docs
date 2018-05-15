@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "One Game"
-    url: /docs/quick-start-guide/
+    url: http://one.game/
   - title: "Chat"
     url: https://t.me/onegame_en
   - title: "Github"
