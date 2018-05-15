@@ -4,22 +4,22 @@ docs:
       - title: "Home"
         url: /
       - title: "FAQ"
-        url: /faq/
+        url: /faq
       - title: "Glossary"
-        url: /glossary/
+        url: /glossary
 
   - title: Content
     children:
       - title: "Working with Desktop SDK"
-        url: /desktop-sdk/
+        url: /desktop-sdk
       - title: "Working with Mobie SDK"
-        url: /mobile-sdk/
+        url: /mobile-sdk
       - title: "Working with VR SDK"
-        url: /vr-sdk/
+        url: /vr-sdk
 
   - title: Extras
     children:
       - title: "Whitepaper"
-        url: /whitepaper/
+        url: /whitepaper
       - title: "One Pager"
-        url: /onepager/
+        url: /onepager
