@@ -4,8 +4,8 @@ main:
     url: /docs/quick-start-guide/
   - title: "Chat"
     url: https://t.me/onegame_en
-  - title: "Twitter"
-    url: https://twitter.com/onegamerocks
+  - title: "Github"
+    url: https://github.com/OneGameFoundation
 
 docs:
   - title: Getting Started
