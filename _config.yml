@@ -1,10 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
 
 defaults:
-  # _docs
+  # _pages
   - scope:
       path: ""
-      type: docs
+      type: pages
     values:
       sidebar:
         nav: "docs"
