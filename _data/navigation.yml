@@ -19,8 +19,8 @@ docs:
 
   - title: Developer Guide
     children:
-      - title: "SDK Overview"
-        url: /sdk-overview
+      - title: "Overview"
+        url: /overview
       - title: "Scripts"
         url: /scripts
       - title: "Asset Store"
