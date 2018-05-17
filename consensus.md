@@ -16,7 +16,7 @@ These two consensus mechanisms enable decentralized governance and a self-evolvi
 
 Here, Rp(l, i+1) and Rp(l, i) respectively represent a land l ’ s Popularity Rank in the current period (period  i+1), and the previous period (period i); k is a number between 0 and 1, and represents the weight of the current period; P is the set of all the players that visited land l in the current period, and p represents a single player; t(p,l) represents the time that a single player p spent in land l , and T(p) is the time that player p spent in all the land in the current period.
 Rp(d, i)= l ∈ L(d)Rp(l, i)
-A developer d’s Popularity Rank Rp(d, i) equals to the sum of all of his land’ Popularity Ranks Rp(l, i) , where l represents a single land, and L(d) is the set of all the land created by d. 
+A developer d’s Popularity Rank Rp(d, i) equals to the sum of all of his land’ Popularity Ranks Rp(l, i), where l represents a single land, and L(d) is the set of all the land created by d. 
 
 ***Competitiveness Rank, defines players’ performance in different games created by developers.***
 
