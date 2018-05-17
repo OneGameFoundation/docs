@@ -29,6 +29,10 @@ docs:
         url: /architecture
       - title: "Developer Tools"
         url: /developer-tools
+      - title: "Smart Contracts"
+        url: /smart-contracts
+      - title: "Hosted Services"
+        url: /hosted-services
 
 
   - title: Reading
