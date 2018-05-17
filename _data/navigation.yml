@@ -26,6 +26,8 @@ docs:
     children:
       - title: "Overview"
         url: /overview
+      - title: "Asset Bundle"
+        url: /asset-bundle
       - title: "Asset Store"
         url: /asset-store
       - title: "Architecture"
