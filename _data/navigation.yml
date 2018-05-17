@@ -33,6 +33,10 @@ docs:
         url: /smart-contracts
       - title: "Hosted Services"
         url: /hosted-services
+      - title: "Version Management"
+        url: /version-management
+      - title: "Platform Self Envolvement"
+        url: /envolvement
 
 
   - title: Reading
