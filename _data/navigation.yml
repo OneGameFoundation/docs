@@ -36,8 +36,7 @@ docs:
       - title: "Version Management"
         url: /version-management
       - title: "Platform Self Envolvement"
-        url: /envolvement
-
+        url: /evolvement
 
   - title: Reading
     children:
