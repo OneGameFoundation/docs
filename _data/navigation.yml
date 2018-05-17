@@ -17,22 +17,21 @@ docs:
       - title: "Glossary"
         url: /glossary
 
-  - title: Developer Guide
+  - title: User Guide
+    children:
+      - title: "Scripts"
+        url: /scripts
+
+  - title: Technical Guide
     children:
       - title: "Overview"
         url: /overview
-      - title: "Scripts"
-        url: /scripts
       - title: "Asset Store"
         url: /asset-store
       - title: "Architecture"
         url: /architecture
-      - title: "Developer Tools"
-        url: /developer-tools
-      - title: "Smart Contracts"
-        url: /smart-contracts
-      - title: "Hosted Services"
-        url: /hosted-services
+      - title: "Mining with One Game"
+        url: /mining-with-one-game
       - title: "Version Management"
         url: /version-management
       - title: "Platform Self Envolvement"
