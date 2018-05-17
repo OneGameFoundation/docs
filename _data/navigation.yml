@@ -40,6 +40,8 @@ docs:
 
   - title: Reading
     children:
+      - title: "Consensus"
+        url: /consensus
       - title: "Whitepaper"
         url: /whitepaper
       - title: "One Pager"
