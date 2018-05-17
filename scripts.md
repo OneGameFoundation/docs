@@ -27,16 +27,16 @@ function start()
 end
 
 function update(dt)
-    -- Fetch the target
-    local target = player.position
+  -- Fetch the target
+  local target = player.position
 
-    -- Rotate the entity towards the player
-	entity.RotateTowards(target, dt * 2)
+  -- Rotate the entity towards the player
+  entity.RotateTowards(target, dt * 2)
 
-	-- Move towards the target
-	local pos = entity.position
-	pos = pos + entity.forward * dt * speed
-	entity.position = pos
+  -- Move towards the target
+  local pos = entity.position
+  pos = pos + entity.forward * dt * speed
+  entity.position = pos
 end
 ```
 
