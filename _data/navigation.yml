@@ -25,6 +25,10 @@ docs:
         url: /scripts
       - title: "Asset Store"
         url: /asset-store
+      - title: "Architecture"
+        url: /architecture
+      - title: "Developer Tools"
+        url: /developer-tools
 
 
   - title: Reading
