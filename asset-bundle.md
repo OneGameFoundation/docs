@@ -9,7 +9,7 @@ sidebar:
 
 The One Game Asset Bundle is a unit of assets that contains specific dependencies such as image, audio clip, texture, model.  
 
-An asset bundle manifest file describes all the dependencies of an asset bundle. A manifest file is a text file that you can open with any text editor.  Below, we have a manifest file that describes the dependencies of Basic Buildings, the name of the Asset Bundle. The name is the name of the asset bundle. The path is the location of asset bundle on the server. The assets is a flat array containing the specific assets of this bundle. In this simple exmaple, the assets contain three png files.
+An asset bundle manifest file describes all the dependencies of an asset bundle and contains metadata for a group of files that are used in an Asset Bundle. A manifest file is a text file that you can open with any text editor.  Below, we have a manifest file `manifest.json` that describes the dependencies of Basic Buildings, the name of the Asset Bundle. The name is the name of the asset bundle. The path is the location of asset bundle on the server. The assets is a flat array containing the specific assets of this bundle. In this simple exmaple, the assets contain three png files.
 
 ```javascript
 [
