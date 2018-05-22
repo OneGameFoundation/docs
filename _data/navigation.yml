@@ -17,6 +17,11 @@ docs:
       - title: "Glossary"
         url: /glossary
 
+  - title: Tutorials
+    children:
+      - title: "Step by Step Guide for Creating Asset Bundle Laughing Panda"
+        url: /asset-bundle-laughing-panda-tutorial
+
   - title: User Guide
     children:
       - title: "Scripts"
