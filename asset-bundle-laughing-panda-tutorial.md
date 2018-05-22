@@ -7,54 +7,39 @@ sidebar:
 ### Step by Step Basic Tutorial for Creating Laughing Panda Asset Bundle
 -------------------------------------------------------------------------
 
-Step 1: [Download Unity](https://unity3d.com/get-unity/download)
+Step 1: [Download Unity](https://unity3d.com/get-unity/download) and open Unity.
 
 
-Step 2: Download the Panda files from Google Poly [here](https://poly.google.com/view/2T6A0o4Kq2h) or get the Panda from this git repository [here](https://github.com/OneGameFoundation/docs/tree/master/assets/Mesh_Panda).
+Step 2: Download the Panda files from this git repository [here](https://github.com/OneGameFoundation/docs/tree/master/assets/Mesh_Panda).
 
-Step 3: Import the Panda files into Unity by dragging the Panda Mesha file and Panda obj into unity - step 1 photo.
-Into the project window in Unity.
-
-![Drag Panda Files into Unity](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step1.png)
+Step 3: Import the Panda files, `Mesh_Panda.obj` (the object), `Tex_Panda.png` (the texture), and the `panda-laugh` (the sound clip), into Unity by dragging the Panda Mesha file and Panda object file into the Project Window in Unity, under Assets > Models.
+![Drag Panda Files into Unity](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step2.png)
 
 
-Step 4. Unity add panda voice (sound clip). 
-Step 2 photo with a sound file panda-laugh 
-![Add sound file panda-laugh](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step2.png)
-
-
-
-
-
-Step 5. Drag mesh panda to the Hierarchy window and confirm that the Panda is now showing on the scene. 
-
-Step 6. Add texture to the Panda. Right cck in Asset Folder and create Material and call Panda. Attach texture to the material. Screen shot 3 with texture applied. 
-
+Step 4. Drag mesh panda to the Hierarchy window and confirm that the Panda is now showing on the scene as seen below.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step3.png)
 
 
-Step 7. Drag the material on the the panda mesh. Now we see that the panda has material applied. Screenshot 4.
+Step 5. Add texture to the Panda. Right click in Assets Folder and create Material. Let's simply name the Material `Panda`. Then, right click Maerial to attach texture to the Material. In the right panel Inspector, you can see that the the texture is now applied to the left of Albedo. 
+
+
+Step 6. Drag the Material on the the Panda Mesh in the scene. Now we see that the panda has material applied. This panda now has the skin of a panda.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step4.png)
 
 
-
-Step 8. Attach the sound file to the Mesh Panda. Screenshot 5. Add the sound to the laugh. 
+Step 7. Attach the sound file to the Mesh Panda. Screenshot 5. Add the sound file to the Panda. In the right panel Inspector, you can see that the Mesh Panda model now has a Audio Source of panda laugh.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step5.png)
 
 
-Step 9. Create prefab for the. Drag Mesh_pange into the Prefabs folder and it will create Prefabs. Screenshot 6. 
-
+Step 8. Now let's create a prefab for the Mesh Panda. Drag Mesh_Panda into the Prefabs folder and Unity will create Prefabs.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step6.png)
 
 
-Step 10. Assign Aset Bundle prefa  b is in. Change the Asset Bundle. Adding title Laugh Panda to the Asset Bundle. Screenshot 7.
-
+Step 9. Assign Asset Bundle prefab is in. Change the Asset Bundle. See in the lower right cordern, add title `laughing panda` to the Asset Bundle.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step7.png)
 
 
-Step 11. Open the Asset Bundle Browser. We clic on Laught pand we have tis Mesh Panda and has all dependencies in it. A manifest file is automatically created. You should see the following manifest file. 
-
-Step 12. Manifest file is automatically generated and it should be same as below. The manifest file for the Panda Asset Bundle needs to be create manually via template.
+Step 10. We click on laughing panda we have the Mesh Panda and has all dependencies in it. A manifest file is automatically created. You should see the following manifest file. Manifest file is automatically generated and it should be same as below. The manifest file for the Panda Asset Bundle needs to be create manually via template. Opening in the manifest file in a text editor should show the below json.
 
 ```javascript
 {
@@ -73,25 +58,20 @@ Step 12. Manifest file is automatically generated and it should be same as below
 }
 ```
 
-Step 13. We click build and define the output path for laughing panda. 
-
+Step 12. In the Asset Bundles tab, click on Build button and define the Output Path for laughing panda. You can leave Advanced Settings as defaults.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step8.png)
 
 
-Step 14. Build and unity will build the laughing panda for us.
+Step 13. When you've defined the Output Path and ready to Build, click on horizonatal Build button, and Unity will build the laughing panda.
 
-Step 15. Find the exported launghing panda at the build folder. 
-
+Step 14. Find the exported launghing panda at the Output Path. We are done creating an asset bundle called laughing panda. This panda looks like a panda and can laugh as we attached a sound file as an Audio Source.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step9.png)
 
 
+Step 16. In One Game client storage, put the laughing panda here. Open One Game and push to asset server. We will allow you to be able to sell or distribute your Asset Bundle in our Asset Store in the future where you can make money and sell or distribute your creations.
+
+Step 17. You can also use the Asset Bundle, `laughing panda` right away locally in One Game. Below, we see the panda now in a scene in One Game.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step10.png)
-
-
-
-Step 16. One Game client storage, put the laughing panda here.
-
-Step 17. Open One Game and push to server.  You can also use the Asset bundle right away locally in One Game.
 
 
 
