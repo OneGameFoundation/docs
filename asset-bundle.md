@@ -49,6 +49,6 @@ Each asset in the bundle should have the following fields:
 * name = The custom name of the asset
 * prefab = The name of the prefab in the asset bundle
 * type = The type of asset (TBD, but this is an integer for now)
-* thumbnail-path = The relative path of the thumbnail on the server e.g. /images/building1.png
+* thumbnail-path = The relative path of the thumbnail on the server, such as `/images/building1.png`
 
 Asset Bundles can contain any arbitrary number of dependencies, but each requires a manifest file. We will provide a tutorial walking through how to create an Asset Bundle.
