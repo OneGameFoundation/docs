@@ -4,23 +4,26 @@ sidebar:
   nav: "docs"
 ---
 
-### Step by Step Basic Tutorial for Creating Laughing Panda Asset Bundle
+### Step-by-Step Basic Tutorial for Creating Laughing Panda Asset Bundle
 -------------------------------------------------------------------------
 
-Step 1: [Download Unity](https://unity3d.com/get-unity/download) and open Unity.
+We are excited that you are ready to get started in create Asset Bundles. You can upload and distribute the Asset Bundles nto our Asset Store in the future and make real money.
+
+Step 1: Download Unity [here](https://unity3d.com/get-unity/download) and open Unity.
 
 
 Step 2: Download the Panda files from this git repository [here](https://github.com/OneGameFoundation/docs/tree/master/assets/Mesh_Panda).
 
-Step 3: Import the Panda files, `Mesh_Panda.obj` (the object), `Tex_Panda.png` (the texture), and the `panda-laugh` (the sound clip), into Unity by dragging the Panda Mesha file and Panda object file into the Project Window in Unity, under Assets > Models.
+Step 3: Import the Panda files, `Mesh_Panda.obj` (the object), `Tex_Panda.png` (the texture), and the `panda-laugh` (the sound clip), into Unity by dragging the Panda object `Mesh_Panda.obj`, Panda texture `Tex_Panda.png`, and Panda sound clip `panda-laugh` into the Unity Project window, under Assets > Models.
 ![Drag Panda Files into Unity](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step2.png)
 
 
-Step 4. Drag mesh panda to the Hierarchy window and confirm that the Panda is now showing on the scene as seen below.
+Step 4. Drag Mesh_Panda into the Hierarchy window and confirm that the Panda model is now visibly being displayed in the Scene window as seen below.
 ![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step3.png)
 
 
-Step 5. Add texture to the Panda. Right click in Assets Folder and create Material. Let's simply name the Material `Panda`. Then, right click Maerial to attach texture to the Material. In the right panel Inspector, you can see that the the texture is now applied to the left of Albedo. 
+Step 5. Add texture to the Panda. Right click in Assets Folder and create Material. Let's simply name the Material `Panda`. Then, right click Material to attach texture `Tex_Panda` to the Material. In the right panel Inspector, you can see that the the texture is now applied (see Albedo) on the Material. 
+![Panda](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step3.png)
 
 
 Step 6. Drag the Material on the the Panda Mesh in the scene. Now we see that the panda has material applied. This panda now has the skin of a panda.
