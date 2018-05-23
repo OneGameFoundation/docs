@@ -7,7 +7,7 @@ sidebar:
 ### Step-by-Step Basic Tutorial for Creating an Asset Bundle: Laughing Panda
 -----------------------------------------------------------------------------
 
-We are excited that you're getting ready to dive in and create Asset Bundles. You can upload and distribute the Asset Bundles in One Game Asset Store in the future and make real money. If you are a gamer who wants to create assets, is involved in the modding community, or is a third party asset creator, you may find this tutorial to be very helpful.
+We are excited that you're getting ready to dive in and create Asset Bundles. You can upload and distribute the Asset Bundles in One Game Asset Store in the future and make real money. If you are a gamer who wants to create assets, is involved in the modding community, or is a third party asset creator, you may find this tutorial useful.
 
 **Step 1**: Download Unity [here](https://unity3d.com/get-unity/download) and open Unity.
 
@@ -18,7 +18,7 @@ We are excited that you're getting ready to dive in and create Asset Bundles. Yo
 
 * `Mesh_Panda.obj` (the object)
 * `Tex_Panda.png` (the texture)
-* `anda-laugh.wav` (the sound clip)
+* `panda-laugh.wav` (the sound clip)
 
 ![Drag Panda Files into Unity](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step2.png)
 
