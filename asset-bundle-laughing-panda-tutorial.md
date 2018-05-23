@@ -7,14 +7,14 @@ sidebar:
 ### Step-by-Step Basic Tutorial for Creating an Asset Bundle: Laughing Panda
 -----------------------------------------------------------------------------
 
-We are excited that you're getting ready to dive in and create Asset Bundles. You can upload and distribute the Asset Bundles nto our Asset Store in the future and make real money.
+We are excited that you're getting ready to dive in and create Asset Bundles. You can upload and distribute the Asset Bundles in One Game Asset Store in the future and make real money.
 
 **Step 1**: Download Unity [here](https://unity3d.com/get-unity/download) and open Unity.
 
 
 **Step 2**: Download the Panda files from this git repository [here](https://github.com/OneGameFoundation/docs/tree/master/assets/Mesh_Panda).
 
-**Step 3**: Import the Panda files, `Mesh_Panda.obj` (the object), `Tex_Panda.png` (the texture), and the `panda-laugh` (the sound clip), into Unity by dragging the Panda object `Mesh_Panda.obj`, Panda texture `Tex_Panda.png`, and Panda sound clip `panda-laugh` into the Unity Project window, under Assets > Models.
+**Step 3**: Import the Panda files, `Mesh_Panda.obj` (the object), `Tex_Panda.png` (the texture), and the `panda-laugh.wav` (the sound clip), into Unity by dragging the Panda object `Mesh_Panda.obj`, Panda texture `Tex_Panda.png`, and Panda sound clip `panda-laugh.wav` into the Unity Project window, under Assets > Models.
 
 ![Drag Panda Files into Unity](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step2.png)
 
@@ -34,7 +34,7 @@ We are excited that you're getting ready to dive in and create Asset Bundles. Yo
 ![Panda Mesh Added](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step4.png)
 
 
-**Step 7**: Attach the sound file, `panda-laugh`, to the Mesh Panda. Add the sound file to the Panda as an Audio Source. In the right panel Inspector, you can see that the Mesh Panda model now has an Audio Source.
+**Step 7**: Attach the sound file, `panda-laugh.wav`, to the Mesh Panda. Add the sound file to the Panda as an Audio Source. In the right panel Inspector, you can see that the Mesh Panda model now has an Audio Source.
 
 ![Panda Sound File Added](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step5.png)
 
@@ -85,7 +85,7 @@ We are excited that you're getting ready to dive in and create Asset Bundles. Yo
 
 ![Panda in One Game](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step10.png)
 
-If you have any questions, connect with our developers on social channels. We will be offering more tutorials for our developers.
+If you have any questions, connect with our developers on social channels. We will be offering more tutorials for you. Stay tuned.
 
 
 
