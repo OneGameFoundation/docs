@@ -18,17 +18,17 @@ We are excited that you're getting ready to dive in and create Asset Bundles. Yo
 
 * `Mesh_Panda.obj` (the object)
 * `Tex_Panda.png` (the texture)
-* panda-laugh.wav` (the sound clip)
+* `anda-laugh.wav` (the sound clip)
 
 ![Drag Panda Files into Unity](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step2.png)
 
 
-**Step 4**: Drag `Mesh_Panda` into the Hierarchy window and confirm that the Panda model is now visibly being displayed in the Scene window as seen below.
+**Step 4**: Drag `Mesh_Panda` into the Hierarchy window and confirm that the Panda model is visibly being displayed in the Scene window as shown below.
 
 ![Panda Model Displaying](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step3.png)
 
 
-**Step 5**: Let's add some life to the panda by adding a texture. Right click the project -> `Create Material`. Name the Material `Panda`. On this material, drag the `Tex_Panda` texture into the albedo field, to attach the texture onto the Material. In the right panel Inspector, you can see that the the texture is now applied (see Albedo) on the Material. 
+**Step 5**: Let's add some life to the panda by adding a texture. Right click the project -> `Create Material`. Name the Material `Panda`. On this material, drag the `Tex_Panda` texture into the albedo field, to attach the texture onto the Material. In the right panel Inspector, you can see that the the texture is now applied on the Material. 
 
 ![Panda Texture Applied](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step3.png)
 
@@ -71,7 +71,7 @@ We are excited that you're getting ready to dive in and create Asset Bundles. Yo
 }
 ```
 
-**Step 12**: In the Asset Bundles tab, click on Build tab on the top and define the Output Path for `laughing panda`. You can leave Advanced Settings as defaulted.
+**Step 12**: In the Asset Bundles tab, click on Build tab on the top and define the Output Path for `laughing panda`. You can leave Advanced Settings as default.
 
 ![Panda Output Path](https://raw.githubusercontent.com/OneGameFoundation/docs/master/assets/screenshots-laughing-panda/screenshot-step8.png)
 
